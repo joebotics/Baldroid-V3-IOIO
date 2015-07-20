@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexus BalAct - Workie!!!</string>
+    <string name="seekbar_label">Move to control the position:</string>
+    <string name="analog_label">Analog readingNO WAY !!:</string>
+    <string name="tiltadjusterLabel">Tilt adjuster Value: </string>
+    <string name="tiltCorrectionLabel">Tilt Adjuster Value: </string>
+    <string name="kPadjusterLabel">kP adjuster Value:</string>
+    <string name="kIadjusterLabel">kI adjuster Value:</string>
+    <string name="kDadjusterLabel">kD adjuster Value:</string>
+    <string name="currentAngleLabel">Current Angle Value:</string>
+</resources>
